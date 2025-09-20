@@ -1,7 +1,7 @@
-# 👋 Hey, I’m John — I build clean code & fun apps
+# 👋 Hey, I’m Kaloyiee— I build clean code & Basics Codes for you:)
 > Code + Coffee = 🚀
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=your-username.your-username)](https://github.com/your-username)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=your-username.your-username)](https://github.com/Kaloyiee)
 
 ---
 
