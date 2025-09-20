@@ -18,7 +18,7 @@
 |---|---:|---|
 | **Weather Wizard** | React · OpenWeather API | Clean weather UI + offline caching |
 | **TaskFlow** | Node · PostgreSQL | Team workflow tool with analytics |
-| **Portfolio Site** | HTML · CSS · JS | Personal branding & blog |
+| **Portfolio Site** | HTML, CSS, JS, JAVA, C++, PYTHON, SGL, MYSGL, VUE & BRUH CODE! | Personal branding & blog |
 
 *(Links: add repo/live URLs under each project when you paste into your repo)*
 
